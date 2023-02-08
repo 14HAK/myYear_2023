@@ -11,8 +11,8 @@
 
 youtube: <i class="fa-brands fa-youtube"></i>
 facebook: <i class="fa-brands fa-facebook-f"></i>
-tubler: <i class="fa-solid fa-umbrella"></i>
 twittwr: <i class="fa-brands fa-twitter"></i>
+tubler: <i class="fa-solid fa-umbrella"></i>
 discore: <i class="fa-brands fa-discord"></i>
 
 ###management icons:
